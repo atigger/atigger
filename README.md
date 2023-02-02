@@ -32,5 +32,5 @@
 
 ![](https://cdn.jsdelivr.net/gh/atigger/atigger@main/assets/github-contribution-grid-snake.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github-light#gh-light-mode-only)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github-light#gh-light-mode-only)](https://github.com/atigger)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github-compact#gh-dark-mode-only)](https://github.com/atigger)
