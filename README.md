@@ -32,5 +32,8 @@
 
 ![](https://cdn.jsdelivr.net/gh/atigger/atigger@main/assets/github-contribution-grid-snake.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github-light#gh-light-mode-only)](https://github.com/atigger)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github-compact#gh-dark-mode-only)](https://github.com/atigger)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github-compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github-light">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github-light">
+</picture>
