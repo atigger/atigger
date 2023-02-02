@@ -1,6 +1,6 @@
 
 <div href="#">
-  <img width="50%" align="right" src="https://streak-stats.demolab.com?user=atigger&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84" alt="Atigger">
+  <img width="50%" align="right" src="https://streak-stats.demolab.com?user=atigger&theme=github-dark&hide_border=true&locale=zh_Hans" alt="Atigger">
   <img width="50%" align="right" src="https://count.getloli.com/get/@Atigger?theme=rule34" alt="Atigger" />
 </div>
 
