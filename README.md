@@ -30,7 +30,11 @@
 [![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft%20powerpoint&logoColor=white)](#)
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white)](#)
 
-![](https://cdn.jsdelivr.net/gh/atigger/atigger@main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/atigger/atigger@main/assets/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/atigger/atigger@main/assets/github-contribution-grid-snake.gif">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.jsdelivr.net/gh/atigger/atigger@main/assets/github-contribution-grid-snake.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github-compact">
