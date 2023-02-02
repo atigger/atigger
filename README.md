@@ -1,6 +1,10 @@
 
 <div href="#">
-  <img width="50%" align="right" src="https://streak-stats.demolab.com?user=atigger&theme=github-dark&hide_border=true&locale=zh_Hans" alt="Atigger">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=atigger&theme=github-dark&hide_border=true&locale=zh_Hans">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=atigger&hide_border=true&locale=zh_Hans">
+  <img width="50%" align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://streak-stats.demolab.com?user=atigger&theme=github-dark&hide_border=true&locale=zh_Hans">
+</picture>
   <img width="50%" align="right" src="https://count.getloli.com/get/@Atigger?theme=rule34" alt="Atigger" />
 </div>
 
