@@ -32,4 +32,4 @@
 
 ![](https://cdn.jsdelivr.net/gh/atigger/atigger@main/assets/github-contribution-grid-snake.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github)](https://github.com/atigger)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=atigger&theme=github-compact)](https://github.com/atigger)
