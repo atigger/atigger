@@ -35,9 +35,9 @@
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white)](#)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/atigger/atigger@main/assets/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/atigger/atigger@main/assets/github-contribution-grid-snake.gif">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.jsdelivr.net/gh/atigger/atigger@main/assets/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/atigger/atigger@output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/atigger/atigger@output/github-contribution-grid-snake.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.jsdelivr.net/gh/atigger/atigger@output/github-contribution-grid-snake.svg">
 </picture>
 
 <picture>
